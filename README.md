@@ -16,7 +16,7 @@ We used the following four daatsets on both semi-supervised and fully-supervised
 
 ## Usage
 
-For execution run the follwoing scripts
+For execution run the follwoing script
 ```
 sh run.sh
 ```
